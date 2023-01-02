@@ -64,6 +64,10 @@ export default function App() {
       </button>
 
       <p>{value}</p>
+
+      <div>
+      <footer>Designed by Mata O'seeker || 2023</footer>
+      </div>
     </div>
   );
 }
