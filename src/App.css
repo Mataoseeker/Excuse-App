@@ -1,0 +1,27 @@
+body{
+  background-color: rgb(191, 130, 248);
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+button {
+  width: 30%;
+  margin: auto;
+  background-color: blue;
+  border: none;
+  padding: 10px;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 10px;
+}
+p{
+  background-color: white;
+  padding: 15px;
+  border-radius: 5px;
+}
+h2{
+  margin-top: 50px;
+  
+}
